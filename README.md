@@ -18,5 +18,5 @@ Carro feito com Arduino e controlado remotamente via conexão bluetooth.
 
 <h2>Protótipo</h2>
 <img width="600px" src="https://user-images.githubusercontent.com/53026536/69104716-079eeb80-0a48-11ea-996e-fabb0710e93d.png">
-<a href="https://www.youtube.com/watch?v=0_nwTiDFTrU"  target="_blank"><img width="600px" src="https://user-images.githubusercontent.com/53026536/69506108-e472b100-0f0b-11ea-98bd-197242de09c6.gif"></a>
-<h5>Veja este vídeo completo em: <a href="https://www.youtube.com/watch?v=0_nwTiDFTrU"  target="_blank">https://www.youtube.com/watch?v=0_nwTiDFTrU</a><h/5>
+<a href="https://www.youtube.com/watch?v=0_nwTiDFTrU"><img width="600px" src="https://user-images.githubusercontent.com/53026536/69506108-e472b100-0f0b-11ea-98bd-197242de09c6.gif"></a>
+<h5>Veja este vídeo completo em: <a href="https://www.youtube.com/watch?v=0_nwTiDFTrU">https://www.youtube.com/watch?v=0_nwTiDFTrU</a><h/5>
