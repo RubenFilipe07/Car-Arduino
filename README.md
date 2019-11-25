@@ -2,7 +2,7 @@
 Carro feito com Arduino e controlado remotamente via conexão bluetooth.
 
 <h2>Esquema do circuito:</h2>
-<img width="600px" src="https://user-images.githubusercontent.com/53026536/69104603-a0813700-0a47-11ea-872c-e168ea25c4dc.jpg">
+<a href="https://user-images.githubusercontent.com/53026536/69505065-7b3c6f00-0f06-11ea-9077-1330945eb2c8.jpg"><img width="600px" src="https://user-images.githubusercontent.com/53026536/69505056-74156100-0f06-11ea-8c10-d16c6528fe80.jpg"></a>
 
 >Desenhado com fritzing
 
