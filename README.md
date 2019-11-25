@@ -13,7 +13,7 @@ Carro feito com Arduino e controlado remotamente via conexão bluetooth.
    <li>1 Módulo bluetooth HC-05</li>
    <li>4 Motores DC 6V com Caixa de Redução</li>
    <li>Alguns Jumpers (cabos de conexão)</li>
-   <li>4 células 18650 de 4.2V (Bateria)</li>
+   <li>4 células 18650 de 3.8V (Bateria)</li>
 </ul>
 
 <h2>Protótipo</h2>
