@@ -6,7 +6,6 @@ Carro feito com Arduino e controlado remotamente via conexão bluetooth.
 
 >Desenhado com fritzing
 
-Clique para visualizar em tamanho maior </br>
 Baixar imagem: <a href="https://github.com/RubenFilipe07/Car-Arduino/raw/master/Circuito.jpg" download>Circuito.png</a> </br>
 
 <h4>Materiais utilizados</h4>
