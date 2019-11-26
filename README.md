@@ -22,5 +22,5 @@ Carro feito com Arduino e controlado remotamente via conexão bluetooth.
 <h5>Veja este vídeo completo em: <a href="https://www.youtube.com/watch?v=0_nwTiDFTrU">https://www.youtube.com/watch?v=0_nwTiDFTrU</a><h/5>
 
 <h2>Código</h2>
-Baixe-o aqui: <a href="https://github.com/RubenFilipe07/Car-Arduino/blob/master/Code.zip" download>Code.zip</a> 
+Baixe-o aqui: <a href="https://github.com/RubenFilipe07/Car-Arduino/raw/master/Code.zip" download>Code.zip</a> </br>
 Ou se preferir visualizar: <a href="https://github.com/RubenFilipe07/Car-Arduino/blob/master/Code.ino">Code.ino</a>
