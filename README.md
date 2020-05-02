@@ -24,9 +24,9 @@ Baixar imagem: <a href="https://github.com/RubenFilipe07/Car-Arduino/raw/master/
 <h5>Veja este vídeo completo em: <a href="https://www.youtube.com/watch?v=0_nwTiDFTrU">https://www.youtube.com/watch?v=0_nwTiDFTrU</a><h/5>
    
 <h2>Programa utilizado para controle remoto</h2>
-<img width="600px" src="https://user-images.githubusercontent.com/53026536/80894120-93cb6500-8cae-11ea-89aa-33106e7fb1bc.jpg"> </br>
-Neste projeto foi utilizado o app <a href="https://play.google.com/store/apps/details?id=com.electro_tex.bluetoothcar&hl=pt_BR">Arduino Car</a>, que permite o controle do carro a partir de uma conexão bluetooth e pode ser facilmente encontrado na google play.
-Baixe-o aqui: <a href="https://play.google.com/store/apps/detailsid=com.electro_tex.bluetoothcar&hl=pt_BR">https://play.google.com/store/apps/details?id=com.electro_tex.bluetoothcar&hl=pt_BR</a> </br>
+<img width="600px" src="https://user-images.githubusercontent.com/53026536/80894120-93cb6500-8cae-11ea-89aa-33106e7fb1bc.jpg">
+<p>Neste projeto foi utilizado o app <a href="https://play.google.com/store/apps/details?id=com.electro_tex.bluetoothcar&hl=pt_BR">Arduino Car</a>, que permite o controle do carro a partir de uma conexão bluetooth e pode ser facilmente encontrado na google play.</p>
+Baixe-o aqui: <a href="https://play.google.com/store/apps/details?id=com.electro_tex.bluetoothcar&hl=pt_BR">https://play.google.com/store/apps/details?id=com.electro_tex.bluetoothcar&hl=pt_BR</a> </br>
 
 <h2>Código</h2>
 Baixe-o aqui: <a href="https://github.com/RubenFilipe07/Car-Arduino/raw/master/Code.zip" download>Code.zip</a> </br>
